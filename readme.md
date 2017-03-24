@@ -1,1 +1,1 @@
-Sample repo created to understand about basics in GIT
+Sample repo created to understand about basics in GIT workflow
